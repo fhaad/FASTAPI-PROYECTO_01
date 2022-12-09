@@ -148,3 +148,7 @@ Mogenius es una plataforma en la nube donde puedes alojar tus aplicaciones.  Es 
 
 <img src="/src/mogenius.jpg"  height="200">
 
+
+### DIAGRAMA DE PROCESO
+
+<img src="/src/Proyecto_01_FastApi_Fede.jpg"  height="600">
