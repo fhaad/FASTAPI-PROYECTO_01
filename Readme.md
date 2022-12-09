@@ -146,11 +146,4 @@ Utiliza contenedores, y lo que hacen es reutilizar el kernel, que es la parte ma
 Mogenius es una plataforma en la nube donde puedes alojar tus aplicaciones.  Es aqui donde se hara la ejecucion de nuestra aplicacion enlazada directamente al repositorio de github donde se encuentra todo el desarrollo.
 
 
-
-
-
-
-
-
-
 <img src="/src/mogenius.jpg"  height="200">
