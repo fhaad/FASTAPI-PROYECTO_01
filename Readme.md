@@ -13,7 +13,8 @@
 5. Herramientas utilizadas
 6. FastApi (ejecucion)
 7. Docker (container)
-8. Deploy
+8. Deploy (Mogenius)
+9. Video Tutorial del Proyecto
 
 
 ### 1. INTRODUCCION
@@ -143,10 +144,19 @@ Utiliza contenedores, y lo que hacen es reutilizar el kernel, que es la parte ma
 
 ### 8. DEPLOY - MOGENIUS
 
+ENLACE: https://fastapi-proyec-prod-proyecto-01-fede-a0vzhm.mo5.mogenius.io/docs
+
 Mogenius es una plataforma en la nube donde puedes alojar tus aplicaciones.  Es aqui donde se hara la ejecucion de nuestra aplicacion enlazada directamente al repositorio de github donde se encuentra todo el desarrollo.
 
 
 <img src="/src/mogenius.jpg"  height="200">
+
+
+### 9. VIDEO TUTORIAL
+
+Aqui podra observar un video tutorial de este proyecto.
+
+Enlace: https://youtu.be/X_HzXqmFXgM
 
 
 ### DIAGRAMA DE PROCESO
